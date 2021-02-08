@@ -1,15 +1,15 @@
 {
   "name": "prettier-config-profitboss",
   "version": "0.1.1",
-  "description": "ProfitBoss prettier.js config",
+  "description": "Profitboss prettier.js config",
   "main": "index.js",
   "scripts": {
     "pub": "npm version patch --force && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ProfBoss/prettier-config-profitboss.git"
+    "url": "git+ssh://git@github.com/Profboss/prettier-config-profitboss.git"
   },
-  "author": "ProfitBoss",
+  "author": "Profitboss",
   "license": "MIT"
 }
