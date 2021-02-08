@@ -1,15 +1,15 @@
 {
-  "name": "prettier-config-thealexpatin",
+  "name": "prettier-config-profitboss",
   "version": "0.1.1",
-  "description": "Alex Patin's Personal Prettier Config",
+  "description": "ProfitBoss prettier.js config",
   "main": "index.js",
   "scripts": {
     "pub": "npm version patch --force && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/theAlexPatin/prettier-config-thealexpatin.git"
+    "url": "git+ssh://git@github.com/ProfBoss/prettier-config-profitboss.git"
   },
-  "author": "Alexander Patin",
+  "author": "ProfitBoss",
   "license": "MIT"
 }
